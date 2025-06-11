@@ -66,6 +66,3 @@ kyara-beverages/
 │   └── script.js          # Main JavaScript file
 └── README.md              # Project documentation
 ```
-
-## Getting Started
-// ... existing code ...
