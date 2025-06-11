@@ -6,6 +6,7 @@ A modern, responsive static website for Kyara Beverages showcasing premium mille
 
 This project is a static website built with HTML5, CSS3, and vanilla JavaScript that presents Kyara Beverages' brand story and product offerings. The site emphasizes the company's mission to create nutritious, refreshing, and authentic millet-based fruit drinks.
 
+## Live demo - https://arunsadalgekar07.github.io/KyaraBeverages/
 ## Features
 
 ### 🎨 Design & User Experience
